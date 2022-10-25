@@ -1,7 +1,7 @@
 //$('selector').action    (syntax of jQuery code)
 
 $(document).ready(function () {
-    //  $('p').click();   //clicks on p and is an element selector
+     /$('p').click();   //clicks on p and is an element selector
     //$('p').click(function(){
     //console.log('This is an example of element selector',this)
     //});   //do this when we click on p
